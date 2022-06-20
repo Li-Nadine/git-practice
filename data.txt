@@ -1,4 +1,0 @@
-Name: Ironhackli
-Age: 38
-Favorite Color: Purple
-Geburtsort: Berlin
